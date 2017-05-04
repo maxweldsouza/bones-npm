@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "UNLICENSED"
+  "author": "Maxwel Dsouza",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/maxwell_dsouza/bones-npm.git"
+  },
+  "homepage": "https://bitbucket.org/maxwell_dsouza/bones-npm#readme"
 }
