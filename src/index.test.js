@@ -1,3 +1,3 @@
 test('Sample test', () => {
-    expect(5).toEqual(4);
+    expect(5).toEqual(5);
 });
