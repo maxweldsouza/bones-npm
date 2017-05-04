@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest -- watch"
   },
   "author": "Maxwel Dsouza",
   "license": "UNLICENSED",
@@ -12,5 +12,9 @@
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/maxwell_dsouza/bones-npm.git"
   },
-  "homepage": "https://bitbucket.org/maxwell_dsouza/bones-npm#readme"
+  "homepage": "https://bitbucket.org/maxwell_dsouza/bones-npm#readme",
+  "devDependencies": {
+    "babel-jest": "^19.0.0",
+    "jest": "^19.0.2"
+  }
 }
