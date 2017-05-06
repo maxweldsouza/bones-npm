@@ -1,3 +1,4 @@
 test('Sample test', () => {
-    expect(5).toEqual(5);
+    let x = 5;
+    expect(x).toEqual(5);
 });
