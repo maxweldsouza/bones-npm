@@ -1183,9 +1183,9 @@ eslint-config-airbnb@^14.1.0:
   dependencies:
     eslint-config-airbnb-base "^11.1.0"
 
-eslint-config-maxweldsouza@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-maxweldsouza/-/eslint-config-maxweldsouza-1.0.0.tgz#e6b060bcd36601d710d085347413a435168b3f46"
+eslint-config-maxweldsouza@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-maxweldsouza/-/eslint-config-maxweldsouza-1.1.0.tgz#b215249cea3d7a5ab4b3cc84c8f5255dc23df928"
   dependencies:
     eslint-config-airbnb "^14.1.0"
     eslint-plugin-import "^2.2.0"
