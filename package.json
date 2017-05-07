@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "author": "Maxwel Dsouza",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/maxwell_dsouza/bones-npm.git"
