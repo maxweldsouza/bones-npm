@@ -23,6 +23,7 @@
     "babel-preset-es2017": "^6.24.1",
     "eslint": "^3.19.0",
     "eslint-config-maxweldsouza": "^1.1.0",
+    "eslint-plugin-jest": "^20.0.0",
     "eslint-plugin-prettier": "^2.0.1",
     "husky": "^0.13.3",
     "jest": "^19.0.2",

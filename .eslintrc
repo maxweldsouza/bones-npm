@@ -1,7 +1,8 @@
 {
     "extends": ["maxweldsouza"],
     "plugins": [
-        "prettier",
+        "jest",
+        "prettier"
     ],
     "env": {
         "node": true,
