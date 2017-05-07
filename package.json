@@ -18,12 +18,15 @@
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-jest": "^19.0.0",
-    "husky": "^0.13.3",
-    "jest": "^19.0.2"
-  },
-  "dependencies": {
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-es2016": "^6.24.1",
-    "babel-preset-es2017": "^6.24.1"
-  }
+    "babel-preset-es2017": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-maxweldsouza": "^1.0.0",
+    "eslint-plugin-prettier": "^2.0.1",
+    "husky": "^0.13.3",
+    "jest": "^19.0.2",
+    "prettier": "^1.3.1"
+  },
+  "dependencies": {}
 }
